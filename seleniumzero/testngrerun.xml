@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- Suite相关设置，这里paraller是执行的模式，有tests classes methods三种取值，thread-count表示几个线程执行用例 -->  
+<suite name="Suite">  
+  <test name="Test">        
+     <classes>  
+         <class name="testngdemo2.ReRunTestFailed"/>  
+      </classes>    
+  </test>      
+</suite>   

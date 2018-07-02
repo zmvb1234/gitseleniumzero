@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19853" started-at="2017-12-08T03:25:27Z" finished-at="2017-12-08T03:25:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19853" started-at="2017-12-08T03:25:27Z" finished-at="2017-12-08T03:25:47Z">
+      <class name="testngdemo.TestNGNewWindow">
+        <test-method status="PASS" signature="before()[pri:0, instance:testngdemo.TestNGNewWindow@5c3bd550]" name="before" is-config="true" duration-ms="9020" started-at="2017-12-08T11:25:27Z" finished-at="2017-12-08T11:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="getWindowMethod1()[pri:0, instance:testngdemo.TestNGNewWindow@5c3bd550]" name="getWindowMethod1" duration-ms="8525" started-at="2017-12-08T11:25:36Z" finished-at="2017-12-08T11:25:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWindowMethod1 -->
+        <test-method status="PASS" signature="getWindowMethod2()[pri:0, instance:testngdemo.TestNGNewWindow@5c3bd550]" name="getWindowMethod2" duration-ms="334" started-at="2017-12-08T11:25:44Z" finished-at="2017-12-08T11:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWindowMethod2 -->
+        <test-method status="PASS" signature="getWindowMethod3()[pri:0, instance:testngdemo.TestNGNewWindow@5c3bd550]" name="getWindowMethod3" duration-ms="804" started-at="2017-12-08T11:25:45Z" finished-at="2017-12-08T11:25:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWindowMethod3 -->
+        <test-method status="PASS" signature="after()[pri:0, instance:testngdemo.TestNGNewWindow@5c3bd550]" name="after" is-config="true" duration-ms="1151" started-at="2017-12-08T11:25:45Z" finished-at="2017-12-08T11:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- testngdemo.TestNGNewWindow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
